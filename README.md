@@ -31,11 +31,11 @@ Ensure you download these datasets and place them in the data/ directory.
 ## Contributing
 Contributions to this project are welcome. Please follow the steps below to contribute:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes.
-Commit your changes (git commit -am 'Add some feature').
-Push to the branch (git push origin feature-branch).
-Open a new Pull Request.
+- Fork the repository.
+- Create a new branch (git checkout -b feature-branch).
+- Make your changes.
+- Commit your changes (git commit -am 'Add some feature').
+- Push to the branch (git push origin feature-branch).
+- Open a new Pull Request.
 
 License
