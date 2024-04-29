@@ -17,7 +17,7 @@ To run this notebook, you need to set up a Python environment with necessary dep
    git clone https://github.com/hariteja-jajula/Enhanced-Air-Quality-Modeling-with-Physics-Informed-Neural-Networks.git
    cd Enhanced-Air-Quality-Modeling-with-Physics-Informed-Neural-Networks
    pip install -r requirements.txt
-2. ** Install required libraries **
+2. **Install required libraries**
    ```bash
    pip install -r requirements.txt
 
